@@ -1,2 +1,3 @@
 # Discriminant
-*Calculator to count the discriminant
+
+Calculator to count the discriminant
